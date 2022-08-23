@@ -168,7 +168,7 @@ Podrobnosti o napaki:
   <data name="MessageBoxes_BackupRegistryQuestion_Details" xml:space="preserve">
     <value>Povrnili boste vse spremembe z dvoklikom nanje.
 
-Datoteke in imeniki bodo premaknjeni v Koš. Od tam jih lahko obnovite.</value>
+Datoteke in mape bodo premaknjene v Koš. Od tam jih lahko obnovite.</value>
   </data>
   <data name="MessageBoxes_CanSelectOnlyOneItemInfo_Title" xml:space="preserve">
     <value>Postopek ni uspel.</value>
@@ -186,7 +186,7 @@ Datoteke in imeniki bodo premaknjeni v Koš. Od tam jih lahko obnovite.</value>
     <value>Odpri spletno vsebino</value>
   </data>
   <data name="MessageBoxes_NoNetworkConnected_Message" xml:space="preserve">
-    <value>Ne morem se povezati z internetom. Omrežje ni na voljo.</value>
+    <value>Ni mogoče povezati  sez internetom. Omrežje ni na voljo.</value>
   </data>
   <data name="MessageBoxes_NoNetworkConnected_Details" xml:space="preserve">
     <value>Prepričajte se, da je vaš omrežni kabel priključen v računalnik. Če uporabljate brezžično omrežje, zagotovite dovolj močan signal.</value>
@@ -226,7 +226,7 @@ Kasneje jih lahko pošljete iz glavne menijske vrstice (Pomoč-&gt;Pošlji povra
 Dnevnik sprememb:
 - {0}
 
-Opozorilo: Med posodabljanjem bo odstranjena mapa "Update" in datoteka "Update.zip", v imeniku BCU.</value>
+Opozorilo: Med posodabljanjem bo odstranjena mapa "Update" in datoteka "Update.zip", v mapi BCU.</value>
     <comment>0 is a list of changes separated by "- "</comment>
   </data>
   <data name="MessageBoxes_UninstallMsiGuidMissing_Title" xml:space="preserve">
@@ -327,7 +327,7 @@ Opozorilo: Med posodabljanjem bo odstranjena mapa "Update" in datoteka "Update.z
     <value>Niso bili najdeni ostanki namestitve. So pa še vedno prisotni nekateri drugi neuporabni ostanki. Zato lahko zaženete čistilec začasnih datotek kot je npr. BleachBit.</value>
   </data>
   <data name="MessageBoxes_NothingToCopy_Message" xml:space="preserve">
-    <value>Ničesar ni za kopiranje v odložišče. Ali ni izbran odstranjevalec s tako malo informacijami ali pa niste nič izbrali.</value>
+    <value>Nič ni za kopiranje v odložišče. Ali ni izbran odstranjevalec s tako malo informacijami ali pa niste nič izbrali.</value>
   </data>
   <data name="MessageBoxes_Title_Copy_to_clipboard" xml:space="preserve">
     <value>Kopiraj v odložišče</value>
@@ -344,7 +344,7 @@ Opozorilo: Med posodabljanjem bo odstranjena mapa "Update" in datoteka "Update.z
     <value>Poišči na spletu</value>
   </data>
   <data name="MessageBoxes_SearchOnlineMessageBox_NothingToSearchFor_Message" xml:space="preserve">
-    <value>Ničr ni za iskanje</value>
+    <value>Nič ni za iskanje</value>
   </data>
   <data name="MessageBoxes_SelfUninstallQuestion_Title" xml:space="preserve">
     <value>Odstrani BCUninstaller</value>
@@ -359,8 +359,7 @@ Opozorilo: Med posodabljanjem bo odstranjena mapa "Update" in datoteka "Update.z
     <value>Ali želite pred nadaljevanjem, ustvariti obnovitveno točko?</value>
   </data>
   <data name="MessageBoxes_SysRestoreBeginQuestion_Details" xml:space="preserve">
-    <value>
-Če niste prepričani, ali so aplikacije, ki ste jih odstranili, pomembne ali zahtevane za stabilnost sistema, je priporočljivo, da ustvarite obnovitveno točko.
+    <value>Če niste prepričani, ali so aplikacije, ki ste jih odstranili, pomembne ali zahtevane za stabilnost sistema, je priporočljivo, da ustvarite obnovitveno točko.
   Če se karkoli zalomi po pravljenem postopki, lahko uporabite Obnovitev sistema, da povrnete nazaj vse opravljene spremembe.</value>
   </data>
   <data name="MessageBoxes_SearchOnlineError_Message" xml:space="preserve">
@@ -560,7 +559,7 @@ Neobvezno, lahko preskočite čakanja na ta proces. Preskok bo dovolil odstranje
     <value>Preskoči trenutno zagnano storitev</value>
   </data>
   <data name="MessageBoxes_UninstallAlreadyRunning_Message" xml:space="preserve">
-    <value>Izvaja se že drugo odstranjevanje. Počakajte na njen konec, nato poskusite znova.</value>
+    <value>Izvaja se že drugo odstranjevanje. Počakajte na dokončanje, nato poskusite znova.</value>
   </data>
   <data name="JunkRemove_Details_Message" xml:space="preserve">
     <value>Ocena: {0}
@@ -620,10 +619,10 @@ Lahko poskusite onemogočiti zaznavanje sporov v Nastavitvah, toda to ni priporo
     <value>Vsili odstranitev</value>
   </data>
   <data name="MessageBoxes_ForceRunUninstallFailedError_Header" xml:space="preserve">
-    <value>Spodletel zagon nekaterih odstranjevalcev</value>
+    <value>Ni uspel zagon nekaterih odstranjevalcev</value>
   </data>
   <data name="MessageBoxes_Net4Missing_Title" xml:space="preserve">
-    <value>.NET Framework v4.0 nni najden</value>
+    <value>.NET Framework v4.0 ni najden</value>
   </data>
   <data name="MessageBoxes_Net4Missing_Message" xml:space="preserve">
     <value>.NET Framework v4.0 ni bil najden, nekatere funkcije bodo onemogočene.</value>
