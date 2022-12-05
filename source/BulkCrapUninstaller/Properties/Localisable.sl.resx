@@ -344,7 +344,7 @@ Opozorilo: Med posodabljanjem bo odstranjena mapa "Update" in datoteka "Update.z
     <value>Poišči na spletu</value>
   </data>
   <data name="MessageBoxes_SearchOnlineMessageBox_NothingToSearchFor_Message" xml:space="preserve">
-    <value>Ničr ni za iskanje</value>
+    <value>Nič ni za iskanje</value>
   </data>
   <data name="MessageBoxes_SelfUninstallQuestion_Title" xml:space="preserve">
     <value>Odstrani BCUninstaller</value>
@@ -732,7 +732,7 @@ Lahko poskusite onemogočiti zaznavanje sporov v Nastavitvah, toda to ni priporo
     <value>Ni izbranih veljavnih datotek ali map. Prepričajte se, da imate dostop do njih in, da te niso označene kot sistemske datoteke.</value>
   </data>
   <data name="Uninstaller_GetApplicationsFromDirectories_NothingFound_Title" xml:space="preserve">
-    <value>Poglej za aplikacije</value>
+    <value>Poišči aplikacije</value>
   </data>
   <data name="Uninstaller_GetApplicationsFromDirectories_NothingFound_Message" xml:space="preserve">
     <value>Ni bilo mogoče najti nobenih aplikacij znotraj {0}</value>
