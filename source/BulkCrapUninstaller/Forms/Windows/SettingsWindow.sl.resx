@@ -178,7 +178,7 @@ BCU bo počakal, da se trenutno delujoč ukaz konča preden izvede naslednjega.<
 
 Privzete se Windows mape  vedno pregledujejo. Ni jih potrebno vključiti na seznam.
 
-Uporabite polne poti imenikov, eno pot na vrstico. Neveljavne poti in neobstoječi imeniki bodo prezrti.</value>
+Uporabite polne poti map, eno pot na vrstico. Neveljavne poti in neobstoječe mape bodo prezrte.</value>
   </data>
   <data name="groupBoxProgramFolders.Text" xml:space="preserve">
     <value>Mape namestitve programa</value>
@@ -196,7 +196,7 @@ Uporabite polne poti imenikov, eno pot na vrstico. Neveljavne poti in neobstoje�
     <value>Omogoči uporabnikove ocene aplikacij</value>
   </data>
   <data name="checkBoxShowAllBadJunk.Text" xml:space="preserve">
-    <value>Vedno pokaži smeti z nizko oceno</value>
+    <value>Vedno prikaži smeti z nizko oceno</value>
   </data>
   <data name="checkBoxNeverFeedback.Text" xml:space="preserve">
     <value>Nikoli ne prosi za pomoč</value>
@@ -211,7 +211,7 @@ Uporabite polne poti imenikov, eno pot na vrstico. Neveljavne poti in neobstoje�
     <value>Pogoni (zaznava neregistrirane aplikacije)</value>
   </data>
   <data name="checkBoxPreDefined.Text" xml:space="preserve">
-    <value>Temelji na pred določnih pravilih</value>
+    <value>Na podlagi preddoločenih pravilih</value>
   </data>
   <data name="groupBox1.Text" xml:space="preserve">
     <value>Poišči aplikacije v...</value>
@@ -223,7 +223,7 @@ Uporabite polne poti imenikov, eno pot na vrstico. Neveljavne poti in neobstoje�
     <value>Odkrivanje</value>
   </data>
   <data name="checkBoxScanStoreApps.Text" xml:space="preserve">
-    <value>Windows Store aplikacije</value>
+    <value>Aplikacije Windows Trgovine</value>
   </data>
   <data name="checkBoxScanWinFeatures.Text" xml:space="preserve">
     <value>Lastnosti sistema Windows</value>
@@ -247,7 +247,7 @@ Uporabite polne poti imenikov, eno pot na vrstico. Neveljavne poti in neobstoje�
     <value>Nikoli ne vprašaj za ustvarjanje</value>
   </data>
   <data name="radioButtonBackupAuto.Text" xml:space="preserve">
-    <value>Samodejno ustvari v imeniku:</value>
+    <value>Samodejno ustvari v mapi:</value>
   </data>
   <data name="groupBoxBackup.Text" xml:space="preserve">
     <value>Varnostno kopiraj pred odstranjevanjem ostankov</value>
