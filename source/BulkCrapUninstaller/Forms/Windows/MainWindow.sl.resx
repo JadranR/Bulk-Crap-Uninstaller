@@ -226,7 +226,7 @@
     <value>Ime programa</value>
   </data>
   <data name="gUIDProductCodeCopyContextMenuStripItem.Text" xml:space="preserve">
-    <value>Koda programa / GUID</value>
+    <value>Koda programa/GUID</value>
   </data>
   <data name="fullRegistryPathCopyContextMenuStripItem.Text" xml:space="preserve">
     <value>Polna pot registra</value>
@@ -286,7 +286,7 @@
     <value>Prikaži barvno legendo</value>
   </data>
   <data name="displayToolbarToolStripMenuItem.Text" xml:space="preserve">
-    <value>Prikaži  o&amp;rodno vrstico</value>
+    <value>Prikaži o&amp;rodno vrstico</value>
   </data>
   <data name="displayStatusbarToolStripMenuItem.Text" xml:space="preserve">
     <value>Prikaži statusno &amp;vrstico</value>
@@ -403,7 +403,7 @@
     <value>Odpri po&amp;moč</value>
   </data>
   <data name="startSetupWizardToolStripMenuItem.Text" xml:space="preserve">
-    <value>Zažni čarovnika za namestitev</value>
+    <value>Zaženi čarovnika za namestitev</value>
   </data>
   <data name="checkForUpdatesToolStripMenuItem.Text" xml:space="preserve">
     <value>Preveri obstoj posodobitev</value>
@@ -472,13 +472,13 @@
     <value>Neobvezno za</value>
   </data>
   <data name="uninstallFromDirectoryToolStripMenuItem.Text" xml:space="preserve">
-    <value>Odstrani iz imenika...</value>
+    <value>Odstrani iz mape...</value>
   </data>
   <data name="openSystemRestoreToolStripMenuItem.Text" xml:space="preserve">
     <value>Odpri "Obnovitev sistema"</value>
   </data>
   <data name="toolStripButtonTarget.Text" xml:space="preserve">
-    <value>Odstranitev po oknu, imeniku ali datoteki...</value>
+    <value>Odstranitev po oknu, mapi ali datoteki...</value>
   </data>
   <data name="runToolStripMenuItem.Text" xml:space="preserve">
     <value>Zaženi...</value>
@@ -487,7 +487,7 @@
     <value>Prikaz posodobitev</value>
   </data>
   <data name="targetMenuItem.Text" xml:space="preserve">
-    <value>Odstranitev  z oknom, imenikom ali datoteko...</value>
+    <value>Odstranitev z oknom, mapo ali datoteko...</value>
   </data>
   <data name="fossHubcomToolStripMenuItem.Text" xml:space="preserve">
     <value>FossHub.com</value>
@@ -536,7 +536,7 @@
     <value>Prikaži drevo &amp;map</value>
   </data>
   <data name="startDiskCleanupToolStripMenuItem.Text" xml:space="preserve">
-    <value>Začni čiščenje diska</value>
+    <value>Začni s čiščenjem diska</value>
   </data>
   <data name="tryToInstallNETV35ToolStripMenuItem.Text" xml:space="preserve">
     <value>Namesti .NET v3.5 (dodaj funkcijo)</value>
